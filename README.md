@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/qxlk1pwqnudp1go5?svg=true)](https://ci.appveyor.com/project/mariarykhlik/aqa-bdd-pageobjects)
